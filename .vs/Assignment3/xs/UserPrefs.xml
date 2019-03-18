@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{B9AB7813-E8FD-02B8-5772-AD61751CDDB1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/orbScript.cs">
+    <Files>
+      <File FileName="Assets/CameraAxisTracking.cs" Line="7" Column="5" />
+      <File FileName="Assets/PlayerController.cs" Line="51" Column="2" />
+      <File FileName="Assets/CameraController.cs" Line="31" Column="41" />
+      <File FileName="Assets/CameraRotateTracking.cs" Line="18" Column="44" />
+      <File FileName="Assets/TimeTravelPostProcessing.cs" Line="15" Column="6" />
+      <File FileName="Assets/orbScript.cs" Line="24" Column="61" />
+      <File FileName="Assets/Room1Trigger.cs" Line="22" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
